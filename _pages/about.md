@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /Yuxuan Liu｜刘宇轩/
+permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
