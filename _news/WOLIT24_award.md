@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our poster won the 1st place of the Best Poster in [WOLIT'24](http://idi-wolit.com/wolit24/)！
+Our poster [AirTouch], on drone-based real-time computing, won the 1st place of the Best Poster in [WOLIT 2024](http://idi-wolit.com/wolit24/)！
