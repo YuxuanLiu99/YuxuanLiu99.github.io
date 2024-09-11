@@ -1,9 +1,18 @@
-"AJP":
+"ACM SenSys":
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ACM MobiSys":
+  color: "#BA2867"
 
-"Vision":
-  color: "#009f36"
+"ACM UbiComp":
+  color: "#FF9C31"
+
+"ACM HotMobile":
+  color: "#2878B5"
+
+"ACM/IEEE IPSN":
+  color: "#009540"
+
+"IEEE JSTSP":
+  color: "#00369f"
