@@ -29,5 +29,5 @@ My current research mainly focuses on Distributed Learning, Information Theory a
 <ul>
   <li>AIoT, Environmental Sensing, Mobile Computing and Systems
   <li>Distributed Learning, Information Theory, XAI
-  <li>Check out my <i class="fa-solid fa-file-pen"></i>[CV](https://yuxuanliu99.github.io/publications/), <i class="fa-solid fa-file-lines"></i>[Full Publications](https://yuxuanliu99.github.io/publications/), <i class="fa-solid fa-graduation-cap"></i>[Google Scholar](https://scholar.google.com/citations?hl=en&user=-_-a5aoAAAAJ)
+  <li>Check out my <i class="fa-solid fa-file-pen"></i><a href="https://yuxuanliu99.github.io/publications/">CV</a>, <i class="fa-solid fa-file-lines"></i><a href="https://yuxuanliu99.github.io/publications/">Full Publications</a>, <i class="fa-solid fa-graduation-cap"></i><a href="https://scholar.google.com/citations?hl=en&user=-_-a5aoAAAAJ">Google Scholar</a>
 <ul>
