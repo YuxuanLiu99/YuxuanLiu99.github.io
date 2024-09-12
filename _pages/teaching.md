@@ -7,6 +7,9 @@ nav: true
 nav_order: 6
 ---
 
+
+<i class="fa fa-trophy"></i> Dean's Scholarship, Tsinghua University, 2024
+
 <i class="fa fa-trophy"></i> Outstanding Thesis (M.Sc.) of Tsinghua University & Outstanding Graduate of Beĳing City, 2024
 
 <i class="fa fa-trophy"></i> First place of the Best Poster, International Workshop on Learning and Information Theory, 2024
