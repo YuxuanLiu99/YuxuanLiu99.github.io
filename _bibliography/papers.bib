@@ -16,6 +16,19 @@
   selected={true}
 }
 
+@inproceedings{wang2023califormer,
+  abbr={ACM UbiComp},
+  bibtex_show={true},
+  title={Califormer: Leveraging unlabeled measurements to calibrate sensors with self-supervised learning},
+  author={Liu†, Yuxuan and Wang†, Haoyang and Zhao, Chenyu and He, Jiayou and Ding, Wenbo and Chen, Xinlei},
+  booktitle={Adjunct Proceedings of the ACM UbiComp/ISWC (CPD Workshop)},
+  pages={743--748},
+  year={2023},
+  html={https://dl.acm.org/doi/10.1145/3594739.3612917},
+  abstract={Accurate calibration of low-cost sensors is critical for improving their potential in environmental monitoring. State-of-the-art (SOTA) methods based on supervised learning commonly calibrate sensor measurements with ground truth from the immediate past or future. However, these techniques rely heavily on labeled data which is challenging to obtain in real-world scenarios. Thus, this paper introduces CaliFormer, a novel representation learning model using self-supervised learning to extract time- and spatial-invariant knowledge from unlabeled measurements. Moreover, we propose pre-training enhancements and model architecture modifications to help train CaliFormer. We then fine-tune the calibration model with the learned representations, which is supervised by limited labeled data. Finally, we comprehensively evaluate our calibration model with a dataset collected by low-cost sensors. Results show that our model outperforms other SOTA calibration methods significantly.}, 
+  selected={true}
+}
+
 @inproceedings{liu2022fine,
   abbr={ACM SenSys},
   bibtex_show={true},
@@ -39,19 +52,6 @@
   year={2022},
   abstract={CO2 concentration data with high resolution in large venues is highly required during indoor sport events for in-time environment adjustment to guarantee the athlete performances and audience experience. However, the limited battery energy of the wireless sensors cannot support high data resolution and long time coverage simultaneously. Besides, there also lacks effective embedded methods to clean anomaly data caused by the human and environmental factors probably occurring in large venues. Thus, in this paper, we propose C-RIDGE, a low-power sensing system for high resolution CO2 data collection in large venues. Based on prior knowledge, firstly, an adaptive sampling rate adjustment policy is developed for lower energy consumption to extend the time coverage of data. Secondly, CO2 physical property (CPP) aided data cleaning algorithm is designed to improve data quality as well, using Pearson Correlation Coefficient (PCC) and standard deviation with sliding windows. C-RIDGE has been deployed in one venue during a world-class event. The experiments and collected data have shown the system power consumption can be reduced by 36.1%, with measurement error less than 10.2%. The outliers and anomaly trends can also be detected and calibrated effectively via CPP algorithm. The dataset is available at https://doi.org/10.5281/zenodo.7160830.},
   html={https://dl.acm.org/doi/10.1145/3560905.3567769},
-  selected={true}
-}
-
-@inproceedings{wang2023califormer,
-  abbr={ACM UbiComp},
-  bibtex_show={true},
-  title={Califormer: Leveraging unlabeled measurements to calibrate sensors with self-supervised learning},
-  author={Liu†, Yuxuan and Wang†, Haoyang and Zhao, Chenyu and He, Jiayou and Ding, Wenbo and Chen, Xinlei},
-  booktitle={Adjunct Proceedings of the ACM UbiComp/ISWC (CPD Workshop)},
-  pages={743--748},
-  year={2023},
-  html={https://dl.acm.org/doi/10.1145/3594739.3612917},
-  abstract={Accurate calibration of low-cost sensors is critical for improving their potential in environmental monitoring. State-of-the-art (SOTA) methods based on supervised learning commonly calibrate sensor measurements with ground truth from the immediate past or future. However, these techniques rely heavily on labeled data which is challenging to obtain in real-world scenarios. Thus, this paper introduces CaliFormer, a novel representation learning model using self-supervised learning to extract time- and spatial-invariant knowledge from unlabeled measurements. Moreover, we propose pre-training enhancements and model architecture modifications to help train CaliFormer. We then fine-tune the calibration model with the learned representations, which is supervised by limited labeled data. Finally, we comprehensively evaluate our calibration model with a dataset collected by low-cost sensors. Results show that our model outperforms other SOTA calibration methods significantly.}, 
   selected={true}
 }
 
