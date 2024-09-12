@@ -27,16 +27,3 @@ nav_order: 6
 
 <i class="fa fa-trophy"></i> Honorable Mention of Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling (MCM/ICM), 2019
 
-
-<div class="d-flex justify-content-center">
-  <div class="bottomimg">
-      <a href="https://www.tsinghua.edu.cn" title="Tsinghua" rel="external nofollow noopener" target="_blank">
-          <img src="assets/img/thulogo.jpg">
-      </a>
-  </div>
-  <div class="bottomimg globe-size">
-      <a href="https://clustrmaps.com/site/1b079" title="Visit tracker" rel="external nofollow noopener" target="_blank">
-          <img src="//clustrmaps.com/map_v2.png?cl=ffffff&amp;w=a&amp;t=m&amp;d=jKSvUx3PVKbrs3gMJEUgyrdHV9WKoex6DEx91GJo-8A">
-      </a>
-  </div>
-</div>
