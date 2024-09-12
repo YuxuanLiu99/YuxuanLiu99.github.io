@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Doctoral Student</p>
-    <p>No.2279 Lishui Rd, Shenzhen</p>
     <p>Data Science and Information Technology, THU</p>
   
 news: true # includes a list of news items
@@ -18,8 +17,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a first-year Ph.D. majoring in Data Science and Information Technology at Tsinghua University, working with Professor [Shaolun Huang]( https://sites.google.com/view/slhuang/home). Prior to that, I received my M.Sc. (2024) degree with highest honors in Data Science and Information Technology from Tsinghua-Berkeley Shenzhen Institute at Tsinghua University, under the supervision of Prof. [Xinlei Chen]( https://scholar.google.com/citations?user=Ha8rlUgAAAAJ&hl=en).  I earned my B.E. (2017) degree in Communications Engineering at Beijing Jiaotong University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research mainly focuses on Distributed Learning, Information Theory and XAI. My previous work concentrated on large-scale and highly dynamic environmental sensing and mobile computing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<i class="fa fa-location-arrow"></i> <strong>Address</strong>: X-911A, No.2279 Lishui Rd, Shenzhen, China, 518055
+
+<i class="fa fa-envelope"></i> <strong>E-mail</strong>: [lyuxua@foxmail.com](mailto:lyuxua@foxmail.com) / [yx-l24@mails.tsinghua.edu.cn](mailto:yx-l24@mails.tsinghua.edu.cn) 
+
+<i class="fa-solid fa-star"></i> <strong>Research Interests</strong>:
+<ul>
+  <li>AIoT, Environmental Sensing, Mobile Computing and Systems<li>
+  <li>Distributed Learning, Information Theory, XAI<li>
+  <li>Check out my [CV]( https://yuxuanliu99.github.io/publications/), [Full Publications]( https://yuxuanliu99.github.io/publications/), [Google Scholar]( https://scholar.google.com/citations?hl=en&user=-_-a5aoAAAAJ)<li>
+<ul>
