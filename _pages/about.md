@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: ✨Self-motivated ✨Team-oriented ✨Detail-focused
 
 profile:
   align: right
