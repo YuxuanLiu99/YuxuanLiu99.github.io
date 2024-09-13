@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: CV - Yuxuan Liu-20240912.pdf
+cv_pdf: CV-YuxuanLiu-20240912.pdf
 description: Please refer to the PDF version (Updated 2024.09).
 toc:
   sidebar: false
@@ -24,6 +24,6 @@ toc:
         </header>
     </div>
     <div style="width: 100%; height:800">
-        <iframe src="/assets/pdf/CV - Yuxuan Liu-20240912.pdf" width="100%" height="800">Please click on the icon on the top right to download my CV if it does not show up in your browser. </iframe>
+        <iframe src="/assets/pdf/CV-YuxuanLiu-20240912.pdf" width="100%" height="800">Please click on the icon on the top right to download my CV if it does not show up in your browser. </iframe>
     </div>
 </div>
