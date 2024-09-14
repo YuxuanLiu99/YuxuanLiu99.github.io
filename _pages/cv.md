@@ -12,4 +12,4 @@ toc:
 
 ## Research Roadmap
 
-![Research Roadmap Image](assets/img/research_overview.jpg)
+![Research Roadmap Image](/assets/img/research_overview.jpg)
