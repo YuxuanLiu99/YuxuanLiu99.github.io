@@ -10,9 +10,11 @@ toc:
   sidebar: false
 ---
 
-<div class="cv-pdf">
-  <object data="/assets/pdf/CV-YuxuanLiu-20240912.pdf" type="application/pdf" width="100%" height="600">
-    <p>你的 PDF 无法显示。你可以 <a href="/assets/pdf/CV-YuxuanLiu-20240912.pdf">下载 CV</a> 或使用 PDF 阅读器查看它。</p>
-  </object>
-</div>
-
+<h1 class="post-title">
+    Research Overview 
+</h1>
+<figure>
+  <picture>
+    <img src="assets/img/research_overview.jpg" class="img-fluid z-depth-1 rounded" width="100%" height="auto" alt="research_overview.jpg" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+</figure>
