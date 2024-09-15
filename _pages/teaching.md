@@ -16,6 +16,8 @@ nav_order: 6
 
 <i class="fa fa-trophy"></i> Third prize of TBSI Retreat Student Poster Contest, Tsinghua University, 2024
 
+<i class="fa fa-trophy"></i> ACM MobiSys Student Travel Grants, 2024
+
 <i class="fa fa-trophy"></i> The Award of [BEST PRESENTATION](/assets/pdf/CPD2023.pdf) in CPD Session, ACM UbiComp/ISWC, 2023
 
 <i class="fa fa-trophy"></i> Second-class Overall Excellence Scholarship, Tsinghua University, 2023
