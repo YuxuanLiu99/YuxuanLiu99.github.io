@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently collaborating with Professor [Shaolun Huang](https://sites.google.com/view/slhuang/home) on Distributed Learning, Information Theory, and XAI. Prior to that, I received my M.Sc. (2024) degree with highest honors in Data Science and Information Technology from Tsinghua-Berkeley Shenzhen Institute at Tsinghua University, under the supervision of Prof. [Xinlei Chen]( https://scholar.google.com/citations?user=Ha8rlUgAAAAJ&hl=en).  I earned my B.E. (2021) degree in Communications Engineering at Beijing Jiaotong University.
+I am currently conducting research on Distributed Learning, Information Theory, and XAI. Prior to that, I received my M.Sc. (2024) degree with highest honors in Data Science and Information Technology from Tsinghua-Berkeley Shenzhen Institute at Tsinghua University, under the supervision of Prof. [Xinlei Chen]( https://scholar.google.com/citations?user=Ha8rlUgAAAAJ&hl=en). I earned my B.E. (2021) degree in Communications Engineering at Beijing Jiaotong University.
 
 My previous work mainly focused on concentrated on large-scale and highly dynamic environmental sensing and mobile computing.
 
