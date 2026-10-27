@@ -6,7 +6,7 @@ subtitle: ✨Self-motivated ✨Team-oriented ✨Detail-focused
 
 profile:
   align: right
-  image: yuxuan_web.jpg
+  image: cuty.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Computer Engineering, UVA</p>
