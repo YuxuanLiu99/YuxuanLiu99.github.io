@@ -16,9 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student in the Department of Electrical and Computer Engineering, University of Virginia. Prior to that, I received my M.Sc. (2024) degree with highest honors in Data Science and Information Technology from Tsinghua-Berkeley Shenzhen Institute at Tsinghua University. I earned my B.E. (2021) degree in Communications Engineering at Beijing Jiaotong University.
-
-My current work mainly focused on Mobile and Smart Health, Internet of Medical Things.
+I am a second-year PhD student in the Department of Electrical and Computer Engineering, University of Virginia. Prior to that, I received my M.Sc. (2024) degree with highest honors in Data Science and Information Technology at Tsinghua University. I earned my B.Eng. (2021) degree in Communications Engineering at Beijing Jiaotong University.
 
 <i class="fa fa-location-arrow"></i> <strong>Address</strong>: 130 Chemistry Dr., Charlottesville, VA 22904
 
@@ -27,5 +25,5 @@ My current work mainly focused on Mobile and Smart Health, Internet of Medical T
 <i class="fa-solid fa-star"></i> <strong>Research Interests</strong>:
 <ul>
   <li>Mobile sensing and Ubiquitous computing for healthcare, AIoT
-  <li>Check out my <i class="fa-solid fa-file-pen"></i><a href="https://yuxuanliu99.github.io/publications/">CV</a>, <i class="fa-solid fa-file-lines"></i><a href="https://yuxuanliu99.github.io/publications/">Full Publications</a>, <i class="fa-solid fa-graduation-cap"></i><a href="https://scholar.google.com/citations?hl=en&user=-_-a5aoAAAAJ">Google Scholar</a>
+  <li>Check out my <i class="fa-solid fa-file-pen"></i> <a href="https://yuxuanliu99.github.io/publications/">CV</a>, <i class="fa-solid fa-file-lines"></i> <a href="https://yuxuanliu99.github.io/publications/">Full Publications</a>, <i class="fa-solid fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?hl=en&user=-_-a5aoAAAAJ">Google Scholar</a>
 <ul>
